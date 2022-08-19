@@ -1,0 +1,35 @@
+h3 {
+	color: #ffffff;
+	padding-left: 1rem;
+}
+h1, h2 {
+	color: #ffffff;
+}
+html {
+	background-color:#282922;
+	font-family: arial;
+	font-size: 150%;
+}
+h1, span {
+	text-align: center;
+}
+li {
+	color: #ffffff;
+	line-height: 1;
+	font-size: 150%;
+	padding-left: 1rem;
+}
+.box2 {
+  background-color: #282922;
+  border: 6px solid #ffa500;
+ # border-radius: 20px;
+}
+p {
+	padding-left: 1rem;
+	color: #ffffff;
+	font-size: 140%;
+	text-align: center;
+}
+hr {
+	color: #ffa500;
+}
